@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-name="NOME DRIVE" tvg-logo="https://i.imgur.com/h7zVseY.png" group-title="TESTE | DRIVE",24 KITCHEN HD
+https://github.com/lexnoise/pacman/raw/master/futebol.mp4
+#EXTINF:-1 tvg-name="TESTE SITE" tvg-logo="http://purpleserver.net:80/images/eyC8e7M1XO2G3ZGL7XybJ13vcBp_small.jpg" group-title="Teste | YouTube",Zoo S01E02
+https://meuguia.tv/programacao/categoria/Series
+#EXTINF:-1 tvg-name="Zoo S01E01" tvg-logo="http://purpleserver.net:80/images/y7DV6v8YcshWXcAdvItx6Sa5GTD_small.jpg" group-title="Series | Prime Video",Zoo S01E01
+https://ge.globo.com/agenda/#/
