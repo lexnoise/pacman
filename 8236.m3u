@@ -104,7 +104,7 @@ http://acsc.cc:80/7104071691/y6VYBDXNSY/71802.ts
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71803.ts
 #EXTINF:-1 tvg-name="Band Sports SD" tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports SD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71804.ts
-#EXTINF:-1 tvg-name="TABELA FUTEBOL HD" tvg-logo="https://i.imgur.com/pfnhP1K.png" group-title="Tabela | Futebol",ESPN HD
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="https://i.imgur.com/pfnhP1K.png" group-title="Tabela | Futebol",TABELA FUTEBOL
 https://github.com/lexnoise/pacman/raw/master/futebol.mp4
 #EXTINF:-1 tvg-name="BBC ENTERTAINMENT" tvg-logo="https://ewsat.com/img/BBC_ENTERTAINMENT.png" group-title="PT: Filmes e Séries",BBC ENTERTAINMENT
 http://acsc.cc:80/7104071691/y6VYBDXNSY/191209.ts
