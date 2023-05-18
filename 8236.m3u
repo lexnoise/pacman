@@ -1,4 +1,4 @@
-#EXTM3U
+c#EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-name="AMC BREAK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751" group-title="PT: Filmes e Séries",AMC BREAK HD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/191202.ts
@@ -242,7 +242,7 @@ http://acsc.cc:80/7104071691/y6VYBDXNSY/191320.ts
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71843.ts
 #EXTINF:-1 tvg-name="Combate HD" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="Canais | Esportes",Combate HD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71845.ts
-#EXTINF:-1 tvg-name="COMBATE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="PT: Esportes",COMBATE HD
+#EXTINF:-1 tvg-name="COMBATE HHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="PT: Esportes",COMBATE HD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/191319.ts
 #EXTINF:-1 tvg-name="Combate SD" tvg-logo="https://acstatic.co/logos/canais/combate.png" group-title="Canais | Esportes",Combate SD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71846.ts
