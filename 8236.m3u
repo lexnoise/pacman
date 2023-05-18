@@ -104,7 +104,7 @@ http://acsc.cc:80/7104071691/y6VYBDXNSY/71802.ts
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71803.ts
 #EXTINF:-1 tvg-name="Band Sports SD" tvg-logo="https://acstatic.co/logos/canais/bandsports.png" group-title="Canais | Esportes",Band Sports SD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71804.ts
-#EXTINF:-1 tvg-name="TABELA FUTEBOL HD" tvg-logo="https://i.imgur.com/pfnhP1K.png" group-title="Tabela | Futebol",Tabela Futebol HD
+#EXTINF:-1 tvg-name="TABELA FUTEBOL HD" tvg-logo="https://i.imgur.com/pfnhP1K.png" group-title="Tabela | Futebol",ESPN HD
 https://github.com/lexnoise/pacman/raw/master/futebol.mp4
 #EXTINF:-1 tvg-name="BBC ENTERTAINMENT" tvg-logo="https://ewsat.com/img/BBC_ENTERTAINMENT.png" group-title="PT: Filmes e Séries",BBC ENTERTAINMENT
 http://acsc.cc:80/7104071691/y6VYBDXNSY/191209.ts
@@ -118,12 +118,6 @@ http://acsc.cc:80/7104071691/y6VYBDXNSY/71807.ts
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71808.ts
 #EXTINF:-1 tvg-name="BIS SD" tvg-logo="https://acstatic.co/logos/canais/bis.png" group-title="Canais | Variedades",BIS SD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71809.ts
-#EXTINF:-1 tvg-name="BJJ STARS FHD" tvg-logo="" group-title="Canais | PPV",BJJ STARS FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/159276.ts
-#EXTINF:-1 tvg-name="BJJ STARS HD" tvg-logo="" group-title="Canais | PPV",BJJ STARS HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/159277.ts
-#EXTINF:-1 tvg-name="BJJ STARS SD" tvg-logo="" group-title="Canais | PPV",BJJ STARS SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/159278.ts
 #EXTINF:-1 tvg-name="BLAZE HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo.png" group-title="PT: Variedades",BLAZE HD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/191435.ts
 #EXTINF:-1 tvg-name="CANAL 180" tvg-logo="https://assets.bondlayer.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png" group-title="PT: Musica",CANAL 180
@@ -258,56 +252,6 @@ http://acsc.cc:80/7104071691/y6VYBDXNSY/71848.ts
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71849.ts
 #EXTINF:-1 tvg-name="Comedy Central SD" tvg-logo="https://acstatic.co/logos/canais/comedycentral.png" group-title="Canais | Variedades",Comedy Central SD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71850.ts
-#EXTINF:-1 tvg-name="Copa Catarinense 1 HD" tvg-logo="http://acsa.ws:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg" group-title="Canais | Campeonatos Estaduais",Copa Catarinense 1 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/96011.ts
-#EXTINF:-1 tvg-name="Copa Catarinense 2 HD" tvg-logo="http://acsa.ws:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg" group-title="Canais | Campeonatos Estaduais",Copa Catarinense 2 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/96012.ts
-#EXTINF:-1 tvg-name="Copa Catarinense 3 HD" tvg-logo="http://acsa.ws:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg" group-title="Canais | Campeonatos Estaduais",Copa Catarinense 3 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/96013.ts
-#EXTINF:-1 tvg-name="Copa Catarinense 4 HD" tvg-logo="http://acsa.ws:80/images/7c28af49d4e840b8e55f03c6f78f6018.jpg" group-title="Canais | Campeonatos Estaduais",Copa Catarinense 4 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/147527.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 1 FHD" tvg-logo="http://acsa.ws:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/150498.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 1 HD" tvg-logo="http://acsa.ws:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/150499.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 1 SD" tvg-logo="http://acsa.ws:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 1 SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/150500.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 2 FHD" tvg-logo="http://acsa.ws:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/150501.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 2 HD" tvg-logo="http://acsa.ws:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/150502.ts
-#EXTINF:-1 tvg-name="Copa do Brasil 2 SD" tvg-logo="http://acsa.ws:80/images/9a2901b02f405b562056854b5ab87abb.jpg" group-title="Canais | Prime Video",Copa do Brasil 2 SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/150503.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 1 4K FHDR" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | 4K [FHDR]",Copa do Nordeste 1 4K FHDR
-http://acsc.cc:80/7104071691/y6VYBDXNSY/103515.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 1 FHD" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 1 FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/96505.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 1 FHD [H265]" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 1 FHD [H265]
-http://acsc.cc:80/7104071691/y6VYBDXNSY/96506.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 1 HD" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 1 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/96507.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 1 SD" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 1 SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/96508.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 2 4K FHDR" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | 4K [FHDR]",Copa do Nordeste 2 4K FHDR
-http://acsc.cc:80/7104071691/y6VYBDXNSY/103514.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 2 FHD" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 2 FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/96509.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 2 FHD [H265]" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 2 FHD [H265]
-http://acsc.cc:80/7104071691/y6VYBDXNSY/96510.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 2 HD" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 2 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/96511.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 2 SD" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 2 SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/96512.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 3 HD" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 3 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/101617.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 4 HD" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 4 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/101618.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 5 HD" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 5 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/101619.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 6 HD" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 6 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/101620.ts
-#EXTINF:-1 tvg-name="Copa do Nordeste 7 HD" tvg-logo="http://static.clubsrv.me/logos/canais/copanordeste.png" group-title="Canais | Campeonatos Estaduais",Copa do Nordeste 7 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/101621.ts
 #EXTINF:-1 tvg-name="Cultura 4K FHDR" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | 4K [FHDR]",Cultura 4K FHDR
 http://acsc.cc:80/7104071691/y6VYBDXNSY/103513.ts
 #EXTINF:-1 tvg-name="Cultura FHD" tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura FHD
@@ -466,54 +410,6 @@ http://acsc.cc:80/7104071691/y6VYBDXNSY/71901.ts
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71902.ts
 #EXTINF:-1 tvg-name="E! SD" tvg-logo="https://acstatic.co/logos/canais/e%21.png" group-title="Canais | Variedades",E! SD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71903.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 4K" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="PT: Esportes",ELEVEN SPORTS 1 4K
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191279.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="PT: Esportes",ELEVEN SPORTS 1 FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191278.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="PT: Esportes",ELEVEN SPORTS 1 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191277.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 1 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="PT: Esportes",ELEVEN SPORTS 1 SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191276.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="PT: Esportes",ELEVEN SPORTS 2 FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191282.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="PT: Esportes",ELEVEN SPORTS 2 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191281.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 2 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="PT: Esportes",ELEVEN SPORTS 2 SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191280.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Eleven_Sports_3_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233738" group-title="PT: Esportes",ELEVEN SPORTS 3 FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191285.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Eleven_Sports_3_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233738" group-title="PT: Esportes",ELEVEN SPORTS 3 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191284.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 3 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Eleven_Sports_3_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20200222233738" group-title="PT: Esportes",ELEVEN SPORTS 3 SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191283.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="PT: Esportes",ELEVEN SPORTS 4 FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191288.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="PT: Esportes",ELEVEN SPORTS 4 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191287.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 4 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_%282017%29.svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="PT: Esportes",ELEVEN SPORTS 4 SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191286.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg/revision/latest/scale-to-width-down/250?cb=20210210163233" group-title="PT: Esportes",ELEVEN SPORTS 5 FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191291.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg/revision/latest/scale-to-width-down/250?cb=20210210163233" group-title="PT: Esportes",ELEVEN SPORTS 5 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191290.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 5 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg/revision/latest/scale-to-width-down/250?cb=20210210163233" group-title="PT: Esportes",ELEVEN SPORTS 5 SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191289.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" group-title="PT: Esportes",ELEVEN SPORTS 6 FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191294.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" group-title="PT: Esportes",ELEVEN SPORTS 6 HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191293.ts
-#EXTINF:-1 tvg-name="ELEVEN SPORTS 6 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" group-title="PT: Esportes",ELEVEN SPORTS 6 SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/191292.ts
-#EXTINF:-1 tvg-name="Empreender 4K FHDR" tvg-logo="http://acsa.ws:80/images/a685efe5357cdd5cf25d56bc0cf9abc1.jpg" group-title="Canais | 4K [FHDR]",Empreender 4K FHDR
-http://acsc.cc:80/7104071691/y6VYBDXNSY/178511.ts
-#EXTINF:-1 tvg-name="Empreender FHD" tvg-logo="http://acsa.ws:80/images/a685efe5357cdd5cf25d56bc0cf9abc1.jpg" group-title="Canais | Variedades",Empreender FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/178507.ts
-#EXTINF:-1 tvg-name="Empreender FHD [H265]" tvg-logo="http://acsa.ws:80/images/a685efe5357cdd5cf25d56bc0cf9abc1.jpg" group-title="Canais | Variedades",Empreender FHD [H265]
-http://acsc.cc:80/7104071691/y6VYBDXNSY/178510.ts
-#EXTINF:-1 tvg-name="Empreender HD" tvg-logo="http://acsa.ws:80/images/a685efe5357cdd5cf25d56bc0cf9abc1.jpg" group-title="Canais | Variedades",Empreender HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/178508.ts
-#EXTINF:-1 tvg-name="Empreender SD" tvg-logo="http://acsa.ws:80/images/a685efe5357cdd5cf25d56bc0cf9abc1.jpg" group-title="Canais | Variedades",Empreender SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/178509.ts
 #EXTINF:-1 tvg-name="ESPN 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | 4K [FHDR]",ESPN 2 4K FHDR
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71921.ts
 #EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
@@ -578,16 +474,6 @@ http://acsc.cc:80/7104071691/y6VYBDXNSY/104920.ts
 http://acsc.cc:80/7104071691/y6VYBDXNSY/178518.ts
 #EXTINF:-1 tvg-name="Film&Arts HD" tvg-logo="" group-title="Canais | Filmes e Séries",Film&Arts HD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/104915.ts
-#EXTINF:-1 tvg-name="Fish TV 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/fishtv.png" group-title="Canais | 4K [FHDR]",Fish TV 4K FHDR
-http://acsc.cc:80/7104071691/y6VYBDXNSY/103502.ts
-#EXTINF:-1 tvg-name="Fish TV FHD" tvg-logo="https://acstatic.co/logos/canais/fishtv.png" group-title="Canais | Variedades",Fish TV FHD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/71928.ts
-#EXTINF:-1 tvg-name="Fish TV FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/fishtv.png" group-title="Canais | Variedades",Fish TV FHD [H265]
-http://acsc.cc:80/7104071691/y6VYBDXNSY/71929.ts
-#EXTINF:-1 tvg-name="Fish TV HD" tvg-logo="https://acstatic.co/logos/canais/fishtv.png" group-title="Canais | Variedades",Fish TV HD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/71930.ts
-#EXTINF:-1 tvg-name="Fish TV SD" tvg-logo="https://acstatic.co/logos/canais/fishtv.png" group-title="Canais | Variedades",Fish TV SD
-http://acsc.cc:80/7104071691/y6VYBDXNSY/71931.ts
 #EXTINF:-1 tvg-name="FOOD NETWORK" tvg-logo="https://i.imgur.com/8usMt92.png" group-title="PT: Variedades",FOOD NETWORK
 http://acsc.cc:80/7104071691/y6VYBDXNSY/191430.ts
 #EXTINF:-1 tvg-name="Food Network 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/foodnetwork.png" group-title="Canais | 4K [FHDR]",Food Network 4K FHDR
