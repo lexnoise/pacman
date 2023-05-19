@@ -1,4 +1,4 @@
-c#EXTM3U
+#EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-name="AMC BREAK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751" group-title="PT: Filmes e Séries",AMC BREAK HD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/191202.ts
