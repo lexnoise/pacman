@@ -410,13 +410,13 @@ http://acsc.cc:80/7104071691/y6VYBDXNSY/71901.ts
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71902.ts
 #EXTINF:-1 tvg-name="E! SD" tvg-logo="https://acstatic.co/logos/canais/e%21.png" group-title="Canais | Variedades",E! SD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71903.ts
-#EXTINF:-1 tvg-name="ESPN 22 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | 4K [FHDR]",ESPN 2 4K FHDR
+#EXTINF:-1 tvg-name="ESPN 2 4K FHDR" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | 4K [FHDR]",ESPN 2 4K FHDR
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71921.ts
-#EXTINF:-1 tvg-name="ESPN 22 FHD" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
+#EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71919.ts
-#EXTINF:-1 tvg-name="ESPN 22 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD [H265]
+#EXTINF:-1 tvg-name="ESPN 2 FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 FHD [H265]
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71920.ts
-#EXTINF:-1 tvg-name="ESPN 22 HD" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
+#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 HD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71922.ts
 #EXTINF:-1 tvg-name="ESPN 2 SD" tvg-logo="https://acstatic.co/logos/canais/espn2.png" group-title="Canais | ESPN",ESPN 2 SD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71923.ts
@@ -448,11 +448,11 @@ http://acsc.cc:80/7104071691/y6VYBDXNSY/71916.ts
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71917.ts
 #EXTINF:-1 tvg-name="ESPN Extra SD" tvg-logo="https://acstatic.co/logos/canais/espnextra.png" group-title="Canais | ESPN",ESPN Extra SD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71918.ts
-#EXTINF:-1 tvg-name="ESPN 2 FHD" tvg-logo="http://acsa.ws:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN FHD
+#EXTINF:-1 tvg-name="ESPN FHD" tvg-logo="http://acsa.ws:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN FHD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71911.ts
-#EXTINF:-1 tvg-name="ESPN 2 FHD [H265]" tvg-logo="http://acsa.ws:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN FHD [H265]
+#EXTINF:-1 tvg-name="ESPN FHD [H265]" tvg-logo="http://acsa.ws:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN FHD [H265]
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71912.ts
-#EXTINF:-1 tvg-name="ESPN 2 HD" tvg-logo="http://acsa.ws:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN HD
+#EXTINF:-1 tvg-name="ESPN HD" tvg-logo="http://acsa.ws:80/images/0b9dad1ec9b996957e97803d52ac4aff.png" group-title="Canais | ESPN",ESPN HD
 http://acsc.cc:80/7104071691/y6VYBDXNSY/71913.ts
 #EXTINF:-1 tvg-name="F1 OFICIAL" tvg-logo="https://i.ibb.co/VHsdsPb/62073af08abc75d103d5bc6dfeb54729.png" group-title="PT: Esportes",F1 OFICIAL
 http://acsc.cc:80/7104071691/y6VYBDXNSY/191237.ts
